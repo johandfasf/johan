@@ -1,0 +1,1 @@
+esta es una practica de creacion y sincronizacion de respositorios con git y github
